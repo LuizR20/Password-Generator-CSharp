@@ -11,7 +11,7 @@ Project that generates a random password for the person.
 
 - Open Visual Studio, VS Code or any other support that uses the C# language.
 - Compile and run the code.
-- Follow the instructions in the Project Console to answer the questions.
+- Follow the instructions in the Console to answer the questions.
 
 # How faithful is this project?
 
